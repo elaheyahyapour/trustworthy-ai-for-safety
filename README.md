@@ -6,7 +6,7 @@ Selected demos from my Ph.D. research on AI that supports transportation decisio
 
 **[Open the interactive visualization →](https://elaheyahyapour.github.io/trustworthy-ai-for-safety/)**
 
-[Uploading index.html…]()
+
 
 
 Rotate, zoom, search, and explore how the four studies connect: **Perception → Decision-Making → Explanation → Driver-Aware Coaching**
