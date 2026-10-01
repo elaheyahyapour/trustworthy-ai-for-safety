@@ -1,7 +1,6 @@
 # Trustworthy AI for Transportation Safety
 
-Selected demos from my Ph.D. research on AI that supports transportation decisions while keeping safety evidence interpretable and auditable.
-
+Selected demonstrations from my Ph.D. research on trustworthy AI for transportation safety, spanning perception, decision-making, explainability, and human-centered driver coaching.
 ## 🌐 Interactive Research Constellation
 
 Explore the interactive research visualization:
@@ -32,7 +31,7 @@ https://github.com/user-attachments/assets/89e415f1-9032-444b-b5f0-85f9d6d411aa
 
 The same roadway situation under three **counterfactual** engagement states (HIGH / NORMAL / LOW). Lower engagement can make coaching more conservative, but the physical safety boundary never changes.
 
-**Demo: same scene, three engagement states**
+**Demo: same scene, different engagement states**
 
 
 
@@ -54,8 +53,6 @@ https://github.com/user-attachments/assets/f7250026-055d-4666-a127-13a346a892e7
 
 ---
 
-
-
-  **Elahe (Ellie) Yahyapour**  
-· Ph.D., Transportation Engineering/ Applied AI \& Computer Vision  
-· University of Massachusetts Amherst  
+Elahe (Ellie) Yahyapour
+Ph.D. in Transportation Engineering · University of Massachusetts Amherst
+Trustworthy AI · Computer Vision · Multimodal AI · Transportation Safety
