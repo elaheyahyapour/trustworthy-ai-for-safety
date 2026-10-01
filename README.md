@@ -8,7 +8,6 @@ Explore the interactive research visualization:
 
 **[Launch Interactive Research Constellation →](https://elaheyahyapour.github.io/trustworthy-ai-for-safety/)**
 
-https://elaheyahyapour.github.io/
 
 Rotate, zoom, search, and explore how the four studies connect:
 **Perception → Decision-Making → Explanation → Driver-Aware Coaching**
