@@ -19,7 +19,11 @@ A driver-coaching framework that recommends **PROCEED · SLOW · STOP**. Scene i
 
 **Demo: system recommendations compared across driving scenes**
 
-https://github.com/user-attachments/assets/REPLACE_WITH_VIDEO_URL_1
+
+
+https://github.com/user-attachments/assets/89e415f1-9032-444b-b5f0-85f9d6d411aa
+
+
 
 ---
 
