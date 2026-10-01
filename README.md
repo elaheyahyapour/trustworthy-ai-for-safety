@@ -57,5 +57,5 @@ https://github.com/user-attachments/assets/f7250026-055d-4666-a127-13a346a892e7
 
 
   **Elahe (Ellie) Yahyapour**  
-· Ph.D., Transportation Engineering/ Applied AI/Computer Vision  
+· Ph.D., Transportation Engineering/ Applied AI \& Computer Vision  
 · University of Massachusetts Amherst  
