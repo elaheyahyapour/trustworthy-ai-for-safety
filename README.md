@@ -48,15 +48,10 @@ https://github.com/user-attachments/assets/f7250026-055d-4666-a127-13a346a892e7
 |---|---|---|
 | I | Fairness-Aware Boosting Model for Imbalanced 3D Point Cloud Segmentation in Autonomous Driving | CVPR Workshops 2025 |
 | II | Less Is More: Agentic Prompt Design for Safe VLM Action Selection | WACV Workshops 2026 |
-| III | Cue2Act: Contract-Bounded Vision-Language Coaching for Novice Drivers Under Scene Ambiguity and Model Uncertainty | WiML @ NeurIPS 2026 (abstract accepted) |
-| IV | Cue2Act with Driver Engagement: Contract-Bounded Vision-Language Coaching Under Driver Inattention, Scene Ambiguity, and Model Uncertainty | PhysWorldAI @ NeurIPS 2026 (under review) |
+| III | Cue2Act: Contract-Bounded Vision-Language Coaching for Novice Drivers Under Scene Ambiguity and Model Uncertainty | NeurIPS Workshops 2026 |
+| IV | Cue2Act with Driver Engagement: Contract-Bounded Vision-Language Coaching Under Driver Inattention, Scene Ambiguity, and Model Uncertainty | NeurIPS Workshops 2026 (under review) |
 
 ---
-
-
-
-
-
 
 
 
