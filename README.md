@@ -4,12 +4,12 @@ Selected demos from my Ph.D. research on AI that supports transportation decisio
 
 ## 🌐 Interactive Research Constellation
 
-**[Open the interactive visualization →](https://elaheyahyapour.github.io/trustworthy-ai-for-safety/)**
+Explore the interactive research visualization:
 
+**[Launch Interactive Research Constellation →](https://elaheyahyapour.github.io/trustworthy-ai-for-safety/)**
 
-
-
-Rotate, zoom, search, and explore how the four studies connect: **Perception → Decision-Making → Explanation → Driver-Aware Coaching**
+Rotate, zoom, search, and explore how the four studies connect:
+**Perception → Decision-Making → Explanation → Driver-Aware Coaching**
 
 ---
 
